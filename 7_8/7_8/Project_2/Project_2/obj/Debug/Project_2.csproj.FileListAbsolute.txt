@@ -1,0 +1,17 @@
+C:\Users\OVO\source\repos\Project_2\Project_2\bin\Debug\Project_2.exe.config
+C:\Users\OVO\source\repos\Project_2\Project_2\bin\Debug\Project_2.exe
+C:\Users\OVO\source\repos\Project_2\Project_2\bin\Debug\Project_2.pdb
+C:\Users\OVO\source\repos\Project_2\Project_2\bin\Debug\BLL.dll
+C:\Users\OVO\source\repos\Project_2\Project_2\bin\Debug\DAL.dll
+C:\Users\OVO\source\repos\Project_2\Project_2\bin\Debug\BLL.pdb
+C:\Users\OVO\source\repos\Project_2\Project_2\bin\Debug\DAL.pdb
+C:\Users\OVO\source\repos\Project_2\Project_2\obj\Debug\Project_2.csproj.AssemblyReference.cache
+C:\Users\OVO\source\repos\Project_2\Project_2\obj\Debug\Project_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\OVO\source\repos\Project_2\Project_2\obj\Debug\Project_2.Form1.resources
+C:\Users\OVO\source\repos\Project_2\Project_2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\OVO\source\repos\Project_2\Project_2\obj\Debug\Project_2.Tenant.resources
+C:\Users\OVO\source\repos\Project_2\Project_2\obj\Debug\Project_2.csproj.GenerateResource.cache
+C:\Users\OVO\source\repos\Project_2\Project_2\obj\Debug\Project_2.csproj.CoreCompileInputs.cache
+C:\Users\OVO\source\repos\Project_2\Project_2\obj\Debug\Project_2.csproj.CopyComplete
+C:\Users\OVO\source\repos\Project_2\Project_2\obj\Debug\Project_2.exe
+C:\Users\OVO\source\repos\Project_2\Project_2\obj\Debug\Project_2.pdb
